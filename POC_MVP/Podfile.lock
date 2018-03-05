@@ -1,0 +1,12 @@
+PODS:
+  - JSONParserSwift (1.1.4)
+
+DEPENDENCIES:
+  - JSONParserSwift
+
+SPEC CHECKSUMS:
+  JSONParserSwift: fff6c8aee929431cfbb10d016e9b92f06f732057
+
+PODFILE CHECKSUM: bb9d628f49ef0bdf603d18541bace23babf535fd
+
+COCOAPODS: 1.4.0
